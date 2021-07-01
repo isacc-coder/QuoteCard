@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuoteCard/static/css/main.f245f012.chunk.css",
+    "main.js": "/QuoteCard/static/js/main.729752aa.chunk.js",
+    "main.js.map": "/QuoteCard/static/js/main.729752aa.chunk.js.map",
+    "runtime-main.js": "/QuoteCard/static/js/runtime-main.b653161e.js",
+    "runtime-main.js.map": "/QuoteCard/static/js/runtime-main.b653161e.js.map",
+    "static/js/2.219fdaad.chunk.js": "/QuoteCard/static/js/2.219fdaad.chunk.js",
+    "static/js/2.219fdaad.chunk.js.map": "/QuoteCard/static/js/2.219fdaad.chunk.js.map",
+    "static/js/3.cd397b75.chunk.js": "/QuoteCard/static/js/3.cd397b75.chunk.js",
+    "static/js/3.cd397b75.chunk.js.map": "/QuoteCard/static/js/3.cd397b75.chunk.js.map",
+    "index.html": "/QuoteCard/index.html",
+    "static/css/main.f245f012.chunk.css.map": "/QuoteCard/static/css/main.f245f012.chunk.css.map",
+    "static/js/2.219fdaad.chunk.js.LICENSE.txt": "/QuoteCard/static/js/2.219fdaad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b653161e.js",
+    "static/js/2.219fdaad.chunk.js",
+    "static/css/main.f245f012.chunk.css",
+    "static/js/main.729752aa.chunk.js"
+  ]
+}
